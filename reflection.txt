@@ -1,0 +1,17 @@
+What you have achieved so far
+    So far I was able to grab a dataset from Kaggle and clean the data 
+    I then was able to set up my folder and upload the fiels
+    I then acheived the first task in my analysis which is to understand the base point on the ROI
+    if I were to bet the underdog everytime. If we were to find that there was a profit by doing this, 
+    I would have had to edit my entire project. As suspected there isn't, so my next step is going to be 
+    identifiying which features have the strongest correlation to when the underdog does win and then using a different
+    season to test the hypothesis of only betting on those games to see if that works.
+What you are happy with, from your project work so far
+    Im happy with the ability to get the dataset and create a baseline which is going to be key in my project.
+What you are struggling with, or what challenges you are facing next 
+    I am struggling with getting as many features as I would be happy with, ideally I could have just accessed
+    an entire database with all the stats I'd like but that is all behind a paywall. I am concerned in my next step
+    we may find correlations that are innacurate because of the lack of relevance so this will require some 
+    feature engineering. 
+Anything else you’d specifically like the course staff to focus on in giving you feedback or advice
+    Does my data look expansive enough to develop a legitimate hypothesis without the risk of false positives/correlation.
