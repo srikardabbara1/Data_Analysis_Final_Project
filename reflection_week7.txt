@@ -1,0 +1,26 @@
+What you have achieved so far:
+
+So far I have been able to execute on my plan. I have been able to clean my dataset, do a baseline ROI analysis,
+and then run a few models to test correlation. 
+The Week 7 analysis shows that as expected and shown in week 5, underdog outcomes are not uniform across game contexts, 
+and performance shifts meaningfully by spread size and implied-odds buckets.
+A notable statistical pattern in the EDA was that larger spread buckets had materially higher underdog cover rates 
+than smaller spread buckets, while home-vs-away splits were comparatively closer and less decisive.
+In modeling, Logistic Regression showed the most promise on the held-out period (higher accuracy than 
+Random Forest), and threshold-based model betting rules outperformed the baseline in test-period ROI.
+
+What you are happy with, from your project work so far
+I am happy with my analysis and results so far. My goal was to run a few models and see which one was more accurate.
+I can now take this to the next step by expanding with Logistical refression to a couple seasons worth of data to
+complete my analysis.
+
+
+What you are struggling with, or what challenges you are facing next 
+The thing I struggled with so far was actually buildiing out my models and baseline ROI. Lots of errors
+and research had to go into it and it was easy to get lost or get to a point where I didn't know what the 
+next step was.
+Understanding the data was also difficult to a degree because I had to review all my notes to see what the data
+was showing me.
+
+
+Anything else you’d specifically like the course staff to focus on in giving you feedback or advice
